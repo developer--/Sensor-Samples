@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dev-00/Desktop/Lecture13-Sensors-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/dev-00/Desktop/Lecture13-Sensors-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/dev-00/Desktop/Lecture13-Sensors-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/dev-00/Desktop/Lecture13-Sensors-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

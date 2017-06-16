@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/dev-00/Desktop/Lecture13-Sensors-master/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/dev-00/Desktop/Lecture13-Sensors-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/dev-00/Desktop/Lecture13-Sensors-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/dev-00/Desktop/Lecture13-Sensors-master/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/dev-00/Desktop/Lecture13-Sensors-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/dev-00/Desktop/Lecture13-Sensors-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

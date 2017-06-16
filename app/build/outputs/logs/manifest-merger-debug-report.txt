@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.sensor.proximity
+ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:6:9-57
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:8:5-10:35
+	android:required
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:10:9-32
+	android:name
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:9:9-57
+application
+ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:12:5-30:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/dev-00/.android/build-cache/72b54b49468167f9f2be1fce6a3a46f1525d02c0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/dev-00/.android/build-cache/ca3708b05362b8fd059a3dc300d703a3838c2f64/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/dev-00/.android/build-cache/f9cdafe4c8cf6ad3af3b32752aba4c4c48459934/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/dev-00/.android/build-cache/44b36f8aa23ac8f887b0be0e5ac3457ed19d601d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/dev-00/.android/build-cache/1e101f965ade1b3ece474e6bab29ca6cdc25b7ad/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dev-00/.android/build-cache/5788c87d636b2575a0dbd8c63e25d43fb56288a9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dev-00/.android/build-cache/f23ba911aebea1075cbad37668443e127517fbae/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/dev-00/.android/build-cache/32c9f1ab1e3d46a1b66d8e21778248327fa62d75/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:16:9-40
+activity#ge.test.testsensors.MainActivity
+ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/dev-00/.android/build-cache/72b54b49468167f9f2be1fce6a3a46f1525d02c0/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/dev-00/.android/build-cache/ca3708b05362b8fd059a3dc300d703a3838c2f64/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/dev-00/.android/build-cache/f9cdafe4c8cf6ad3af3b32752aba4c4c48459934/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/dev-00/.android/build-cache/44b36f8aa23ac8f887b0be0e5ac3457ed19d601d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/dev-00/.android/build-cache/1e101f965ade1b3ece474e6bab29ca6cdc25b7ad/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dev-00/.android/build-cache/5788c87d636b2575a0dbd8c63e25d43fb56288a9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dev-00/.android/build-cache/f23ba911aebea1075cbad37668443e127517fbae/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/dev-00/.android/build-cache/32c9f1ab1e3d46a1b66d8e21778248327fa62d75/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dev-00/Desktop/Lecture13-Sensors-master/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/dev-00/.android/build-cache/72b54b49468167f9f2be1fce6a3a46f1525d02c0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/dev-00/.android/build-cache/ca3708b05362b8fd059a3dc300d703a3838c2f64/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/dev-00/.android/build-cache/f9cdafe4c8cf6ad3af3b32752aba4c4c48459934/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/dev-00/.android/build-cache/44b36f8aa23ac8f887b0be0e5ac3457ed19d601d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/dev-00/.android/build-cache/1e101f965ade1b3ece474e6bab29ca6cdc25b7ad/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dev-00/.android/build-cache/5788c87d636b2575a0dbd8c63e25d43fb56288a9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dev-00/.android/build-cache/f23ba911aebea1075cbad37668443e127517fbae/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/dev-00/.android/build-cache/32c9f1ab1e3d46a1b66d8e21778248327fa62d75/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/dev-00/.android/build-cache/f98e70f7007623196a1eaa2fdb5d3e209920abd0/output/AndroidManifest.xml:26:9-47
